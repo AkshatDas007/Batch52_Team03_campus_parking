@@ -1,7 +1,11 @@
 Title: Smart Campus Parking
+
 Problem Statement: Design a parking management program that tracks vehicle entry, exit, and available parking spaces.
+
 Team Number: 03
+
 Batch Number: 52
+
 Members: Akshat Das(590034399)
          Shaurya Yadav(590040147)
 
