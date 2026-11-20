@@ -31,3 +31,5 @@ Declaration - We have used different AI models in this project in different cate
 Furthur upgrades - We are planning to upgrade to separate parking for different vehicle categories, calculating parking fare using entry and exit time, different parking for parkings more than 24hours and locating where vehicle is parked inside the parking alloting different floor inside parking as per visitor needs.
 
 Expected Outcomes - It will help in reducing traffic outside the campus and will provide an organized parking space.
+
+Thanks for reading.
