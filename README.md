@@ -8,7 +8,6 @@ Batch Number: 52
 
 Members: 
          Akshat Das(590034399)
-
          Shaurya Yadav(590040147)
 
 Concepts Used: User Defined Functions, Loops(if-else, for and do-while), strings, print function, scanf(taking inputs), arrays
