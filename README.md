@@ -1,4 +1,6 @@
-Title: Smart Campus Parking
+Title: Smart Campus Parking 
+
+Name Of Our Solution Is : ParkBot
 
 Problem Statement: Design a parking management program that tracks vehicle entry, exit, and available parking spaces.
 
@@ -24,3 +26,8 @@ To execute the program, follow these instructions:
 8. Conduct further tests with varying inputs to validate the program's robustness across different conditions.
 9. Terminate the program session upon completion of the validation process.
 
+Declaration - We have used different AI models in this project in different categories like ChatGPT for checking our approach and reassuring our code and presentation, Gemini for creating images like flowchart etc.
+
+Furthur upgrades - We are planning to upgrade to separate parking for different vehicle categories, calculating parking fare using entry and exit time, different parking for parkings more than 24hours and locating where vehicle is parked inside the parking alloting different floor inside parking as per visitor needs.
+
+Expected Outcomes - It will help in reducing traffic outside the campus and will provide an organized parking space.
